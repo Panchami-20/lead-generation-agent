@@ -1,0 +1,5 @@
+name,company,job_title,industry,company_size,requirement,budget,timeline,source,message
+Test Hot,AlphaTech,CTO,SaaS,500,AI customer support automation,800000,1 week,Website,We are evaluating vendors and want a demo with our technical team next week.
+Test Warm,BetaRetail,Marketing Manager,Retail,100,Social media automation,100000,6 months,Instagram,We are interested in your solution and would like more information and pricing.
+Test Cold,CollegeHub,Student,Education,10,AI learning platform,Not specified,Not specified,Website,I am only exploring AI tools for a college project.
+Test Missing,Unknown,Unknown,Unknown,Unknown,General AI solutions,Not specified,Not specified,Unknown,Tell me more about your product.
